@@ -1,4 +1,4 @@
-Hi Steven,
+Hi there,
 
 I have made a wrapper program so that users
 would be able to wrap images over various 
@@ -21,7 +21,7 @@ Currently, box texture looks best.
 One tricky part happened in the rotation of spheres
 and cylinders was that it is easy to go over the 
 dimensions of the images. So the circumstance for
-the circles is technically R(2*PI - EPSILON),where
+the circles is technically R(2*PI - EPSILON), where
 EPSILON is a very small number to prevent the rotation
 from going overboard. 
 
@@ -30,9 +30,6 @@ folder, and of course the dimensions of the shapes
 are determined by the sizes of the images. Also, 
 image credits are included in this folder.
 
-Finally, thank you so much for teaching us a wonderful 
-block. I really learned and enjoyed a lot during this 
-course, and hope you have a wonderful Thanksgiving break!
 
 best,
 Nelson
