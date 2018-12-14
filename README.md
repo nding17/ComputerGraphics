@@ -5,5 +5,5 @@ in Prof. Steven Janke's CP360 Computer Graphics class
 
 ```
 to execute and run the programs
-simply open the dedicated GUI.java in each program I created
+simply open the dedicated GUI.java for each program I created
 ```
